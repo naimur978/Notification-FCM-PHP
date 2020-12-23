@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963394302965",
+    "project_id": "notification-fcm-php",
+    "storage_bucket": "notification-fcm-php.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963394302965:android:63c6f1f07e3f7226c266bc",
+        "android_client_info": {
+          "package_name": "com.naimur978.notification_fcm_php"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963394302965-hh3b93n7kdcg4co59o63n4nq0gmh9cjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuqs3OJO2bcSevju6NVlwzp9NQoewQZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963394302965-hh3b93n7kdcg4co59o63n4nq0gmh9cjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
